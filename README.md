@@ -1,2 +1,2 @@
 # tutorial_pandas
-Repositório de um tutorial do uso da biblioteca pandas
+Repositório de projetos desenvolvidos com o uso da biblioteca pandas.
